@@ -74,3 +74,6 @@ curl -X POST "http://localhost:5000/create" -H "Content-Type: application/json" 
     "github_link": "https://github.com/RahamanSD26",
     "stopwatch_time": 3600
 }'
+
+##ping
+http://localhost:5000/ping
